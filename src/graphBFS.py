@@ -1,4 +1,4 @@
-# implementation of the breadth first search
+# implementation of the breadth first search using python 2.7
 
 """
 A User is a node in the graph.
