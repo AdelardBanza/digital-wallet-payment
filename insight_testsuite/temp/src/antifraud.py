@@ -1,3 +1,6 @@
+# digital wallet payment
+# The code has been implemented using python 2.7
+
 import os
 import sys
 
