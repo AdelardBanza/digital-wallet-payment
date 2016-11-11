@@ -1,3 +1,5 @@
+# implementation of the breadth first search
+
 """
 A User is a node in the graph.
 Users is a lookup index for all nodes (a dictionary with the user id as a key
